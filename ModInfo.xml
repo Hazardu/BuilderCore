@@ -1,0 +1,10 @@
+<Mod ID="BuilderCore">
+  <Compatible>1.09</Compatible>
+  <Name>
+    <EN>Builder Core</EN>
+  </Name>
+  <Description>
+    <EN>Made by Hazard, mod for importing meshes, creating materials, saving and loading those custom objects</EN>
+  </Description>
+  <Version>1.5.5</Version>
+</Mod>

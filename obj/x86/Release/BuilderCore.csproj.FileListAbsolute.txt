@@ -1,0 +1,6 @@
+C:\Users\Cyprian Skrzypczak\Desktop\mapi broken\projects\TheForest\BuilderCore\Mod\BuilderCore.dll
+C:\Users\Cyprian Skrzypczak\Desktop\mapi broken\projects\TheForest\BuilderCore\Mod\BuilderCore.pdb
+C:\Users\Cyprian Skrzypczak\Desktop\mapi broken\projects\TheForest\BuilderCore\obj\x86\Release\BuilderCore.csprojResolveAssemblyReference.cache
+C:\Users\Cyprian Skrzypczak\Desktop\mapi broken\projects\TheForest\BuilderCore\obj\x86\Release\BuilderCore.csproj.CoreCompileInputs.cache
+C:\Users\Cyprian Skrzypczak\Desktop\mapi broken\projects\TheForest\BuilderCore\obj\x86\Release\BuilderCore.dll
+C:\Users\Cyprian Skrzypczak\Desktop\mapi broken\projects\TheForest\BuilderCore\obj\x86\Release\BuilderCore.pdb
