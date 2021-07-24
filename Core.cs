@@ -315,7 +315,7 @@ namespace BuilderCore
                         material.SetFloat("_OcclusionStrength", b.data[i].OcclusionStrenght);
                         if (b.data[i].EmissionMap != null)
                         {
-                            material.SetTexture("_Emission", b.data[i].EmissionMap);
+                            material.SetTexture("_EmissionMap", b.data[i].EmissionMap);
                             keywords.Add("_EMISSION");
 
                         }
